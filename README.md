@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/daniel-melentovytch-santos/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-### Hi there 👋, I'm Daneil
+### Hi there 👋, I'm Daniel
 
 -  📱 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-melentovytch-santos/)
 
